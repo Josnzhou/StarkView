@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="StackView">
+        <attr name="countTextColor" format="reference|color"/>
+        <attr name="valueTextColor" format="reference|color"/>
+        <attr name="lineColor" format="reference|color"/>
+        <attr name="topRectColor" format="reference|color"/>
+        <attr name="bottomRectColor" format="reference|color"/>
+        <attr name="xAxisTextColor" format="reference|color"/>
+        <attr name="topSelectColor" format="reference|color"/>
+        <attr name="bottomSelectColor" format="reference|color"/>
+        <attr name="leftTagText" format="string|reference"/>
+        <attr name="rightTagText" format="string|reference"/>
+        <attr name="tagColor" format="color"/>
+        <attr name="tagTextSize" format="dimension"/>
+        <attr name="valueTextSize" format="dimension"/>
+        <attr name="xAxisTextSize" format="dimension"/>
+        <attr name="radius" format="dimension"/>
+        <attr name="rectWidth" format="dimension"/>
+        <attr name="describe" format="string|reference"/>
+    </declare-styleable>
+    <declare-styleable name="CircleStroke">
+        <attr name="circleStrokeColor" format="reference|color"/>
+    </declare-styleable>
+    <declare-styleable name="LineChartView">
+        <attr name="xAxisLineColor" format="reference|color"/>
+        <attr name="xAxisLineValueTextSize" format="dimension"/>
+        <attr name="lineChartColor" format="reference|color"/>
+        <attr name="selectPointColor" format="reference|color"/>
+        <attr name="unSelectPointColor" format="reference|color"/>
+        <attr name="pointRadius" format="dimension"/>
+        <attr name="xAxisGridColor" format="reference|color"/>
+        <attr name="valueLineTextSize" format="dimension"/>
+        <attr name="xAxisLineValueColor" format="reference|color"/>
+    </declare-styleable>
+</resources>

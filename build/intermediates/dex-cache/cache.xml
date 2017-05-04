@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/zhouwan/.android/build-cache/b0a5d1e897bbd0fab805cab0848ee713649215d1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/zhouwan/xiaomaiProbject/StackView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8aee3d8efc05463abf4851b0139329cad5b0c06d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhouwan/Desktop/android_sdk/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha4/constraint-layout-solver-1.0.0-alpha4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a882fef6a6b9e3efbb0b6b001895a5fc7c35b391">
+        <dex dex="/Users/zhouwan/xiaomaiProbject/StackView/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.0-alpha4_2fe2df79348f71381785668d86e36b2d5ee8c4f9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhouwan/xiaomaiProbject/StackView/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/zhouwan/xiaomaiProbject/StackView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0a666afd18007001b7d05735afd0c5a4d9f9bc8a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhouwan/Desktop/android_sdk/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha4/constraint-layout-solver-1.0.0-alpha4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a882fef6a6b9e3efbb0b6b001895a5fc7c35b391">
+        <dex dex="/Users/zhouwan/xiaomaiProbject/StackView/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-alpha4_2fe2df79348f71381785668d86e36b2d5ee8c4f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhouwan/xiaomaiProbject/StackView/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="675d4078b26e0147189c3553166aefb257cd7870">
+        <dex dex="/Users/zhouwan/xiaomaiProbject/StackView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_db3eaa5fa9f7722e18e51723a8fc5422600fa428/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhouwan/.android/build-cache/76a7d28895d3590cf2341790a77657b488220add/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/zhouwan/xiaomaiProbject/StackView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6e076f126525eff986f94842d37c043f1ddf0dab/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhouwan/.android/build-cache/b0a5d1e897bbd0fab805cab0848ee713649215d1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/zhouwan/xiaomaiProbject/StackView/app/build/intermediates/pre-dexed/debug/classes_8aee3d8efc05463abf4851b0139329cad5b0c06d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhouwan/.android/build-cache/617824a01bce75b539d3ddbb184a6a8815cd2641/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/zhouwan/xiaomaiProbject/StackView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3a12fa5f7285b5b95c6d592eb80e3e6bc3926dc0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhouwan/.android/build-cache/2bebe188bb015b0a439d4d9c8c6c028e3db4f248/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/zhouwan/xiaomaiProbject/StackView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_83f9494b1468be13d7c7cca27d863df7f544bc0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhouwan/.android/build-cache/2bebe188bb015b0a439d4d9c8c6c028e3db4f248/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/zhouwan/xiaomaiProbject/StackView/app/build/intermediates/pre-dexed/debug/classes_83f9494b1468be13d7c7cca27d863df7f544bc0f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhouwan/Desktop/android_sdk/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/zhouwan/xiaomaiProbject/StackView/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_ffd45f551a74d80c1bf0fb7addc719f115dfbe02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhouwan/.android/build-cache/cbafff89be22810557353b724776a2b1a1205000/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/zhouwan/xiaomaiProbject/StackView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_419f3dc0f5ab3ca954ee5372cc94f582dfbd5747/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhouwan/.android/build-cache/c41c152bbf322beba763adb72a73a8ccb2bd232a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="affe29a90a2a709bfd2b8d6411aa99c05a2be96f">
+        <dex dex="/Users/zhouwan/xiaomaiProbject/StackView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a50e5b48b360de2deb1ea7bce534f726dac082bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhouwan/.android/build-cache/cbafff89be22810557353b724776a2b1a1205000/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/zhouwan/xiaomaiProbject/StackView/app/build/intermediates/pre-dexed/debug/classes_419f3dc0f5ab3ca954ee5372cc94f582dfbd5747.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhouwan/Desktop/android_sdk/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/zhouwan/xiaomaiProbject/StackView/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_ffd45f551a74d80c1bf0fb7addc719f115dfbe02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhouwan/.android/build-cache/c41c152bbf322beba763adb72a73a8ccb2bd232a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="affe29a90a2a709bfd2b8d6411aa99c05a2be96f">
+        <dex dex="/Users/zhouwan/xiaomaiProbject/StackView/app/build/intermediates/pre-dexed/debug/classes_a50e5b48b360de2deb1ea7bce534f726dac082bb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhouwan/.android/build-cache/d14e63bb975b9aa0cad1f5804c161b8248d2c287/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/zhouwan/xiaomaiProbject/StackView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cbf42b1ef4a0e301efdd4523c397524c1f884724/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhouwan/.android/build-cache/2dfff993305ab4c89373376df754ace6ba21c3f5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/zhouwan/xiaomaiProbject/StackView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5ae6af29c996abfb73b33aaf28d0f3c4e1abbd67/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhouwan/.android/build-cache/d14e63bb975b9aa0cad1f5804c161b8248d2c287/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/zhouwan/xiaomaiProbject/StackView/app/build/intermediates/pre-dexed/debug/classes_cbf42b1ef4a0e301efdd4523c397524c1f884724.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhouwan/.android/build-cache/be774920ebefd385fa7099031381bffd3122266b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/zhouwan/xiaomaiProbject/StackView/app/build/intermediates/pre-dexed/debug/classes_82f93de79f7dd57417d799c32dc5a1a8b8de8d0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhouwan/.android/build-cache/617824a01bce75b539d3ddbb184a6a8815cd2641/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/zhouwan/xiaomaiProbject/StackView/app/build/intermediates/pre-dexed/debug/classes_3a12fa5f7285b5b95c6d592eb80e3e6bc3926dc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhouwan/.android/build-cache/2dfff993305ab4c89373376df754ace6ba21c3f5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/zhouwan/xiaomaiProbject/StackView/app/build/intermediates/pre-dexed/debug/classes_5ae6af29c996abfb73b33aaf28d0f3c4e1abbd67.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhouwan/.android/build-cache/be774920ebefd385fa7099031381bffd3122266b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/zhouwan/xiaomaiProbject/StackView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_82f93de79f7dd57417d799c32dc5a1a8b8de8d0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhouwan/.android/build-cache/76a7d28895d3590cf2341790a77657b488220add/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/zhouwan/xiaomaiProbject/StackView/app/build/intermediates/pre-dexed/debug/classes_6e076f126525eff986f94842d37c043f1ddf0dab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zhouwan/.android/build-cache/ebc334485605537a42eb3d5ee866d2b8fdff835e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/zhouwan/xiaomaiProbject/StackView/app/build/intermediates/pre-dexed/debug/classes_b286148e1df4c8ccf004a2249edc5aebcaae4aad.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhouwan/.android/build-cache/ebc334485605537a42eb3d5ee866d2b8fdff835e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/zhouwan/xiaomaiProbject/StackView/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b286148e1df4c8ccf004a2249edc5aebcaae4aad/classes.dex" />
+    </item>
+
+</items>
